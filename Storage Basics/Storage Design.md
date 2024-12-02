@@ -1,5 +1,35 @@
 # Storage Systems Technical Documentation
 
+## Basic Storage Concepts
+
+### Data Storage Definition
+* Recording and keeping of information in a storage medium
+
+### Storage Medium Types
+* Physical storage
+* Virtual storage
+
+### Storage Evolution
+1. First Generation: Punched cards
+2. Second Generation: Magnetic media
+   * Magnetic tape
+   * Hard disk
+   * Floppy disk
+3. Third Generation: Optical media
+4. Fourth Generation: Flash memory
+5. Fifth Generation: Cloud and virtual storage
+
+### Storage Selection Criteria
+* Cost considerations
+* Type of data
+* Access times: Time for reader positioning and read/write operations
+
+### Host-Peripheral Connectivity
+* Physical components:
+  * Host interface card
+  * Port
+  * Cable
+
 ## 1. Addressing Methods
 
 ### CHS (Cylinder, Head, Sector)
