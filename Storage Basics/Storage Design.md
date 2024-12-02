@@ -79,6 +79,11 @@ IOPS (Input/Output Operations Per Second) is a common unit of measurement in com
 Disks for Performance (DP) = Application IOPS / Single Disk IOPS
 ```
 
+### Capacity Planning:
+```
+Disks for Capacity (DC) = Total Required Capacity / Single Disk Capacity
+```
+
 ### Disk Service Time Calculation
 ```
 TS = Seek Time + 0.5(Disk RPM/60) + (Data Block Size / Data Transfer Rate)
